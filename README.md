@@ -13,11 +13,11 @@ The practical value of this topic lies in its ability to help beginners gain a c
     <link rel="stylesheet" href="style.css">
     <script src="./script.js"></script>
 ## Usage
-![image](https://github.com/DennisHsu716/project6.github.io/blob/main/image/1.png)
+![image](https://github.com/DennisHsu716/project5.github.io/blob/main/project3/image/1.png)
 
-In this exchange rate, we have support more than fifty country for use  
 
-![image](https://github.com/DennisHsu716/project6.github.io/blob/main/image/3.png)
+
+![image](https://github.com/DennisHsu716/project5.github.io/blob/main/project3/image/1.gif)
 
 ## About the future plans
 Further enhance the user experience by integrating real-time APIs.
