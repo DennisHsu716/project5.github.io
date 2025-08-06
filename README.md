@@ -1,4 +1,4 @@
-# Website
+# E-Commerce Web Application Development
 [Project Page](https://dennishsu716.github.io/project5.github.io/project3/project3.html)
 ## Summary
 This topic focuses on the integration and application of HTML, CSS, and JavaScript to develop a functional and visually appealing front-end web application. The aim is to enhance the understanding and practical skills related to front-end development technologies while providing users with a high-quality interactive experience. HTML serves as the structural foundation of web pages, CSS is responsible for the page's stylistic design, and JavaScript is utilized to implement dynamic behavior and logical processing. The combination of these three technologies forms the core of front-end development.
