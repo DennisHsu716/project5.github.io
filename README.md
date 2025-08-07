@@ -40,7 +40,7 @@ Advanced users can expand this structure by integrating front-end frameworks lik
         * Vue + Firebase
         * Django + REST API
 
-##🧠 Skills Gained
+## 🧠 Skills Gained
 * Modular web layout planning
 * Responsive web design using media queries
 * DOM event handling and dynamic UI components
